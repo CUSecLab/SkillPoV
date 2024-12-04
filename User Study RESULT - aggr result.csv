@@ -1,0 +1,66 @@
+What is your gender?,What age group are you?,Please indicate your racial or ethnic background. - Selected Choice,Please indicate your racial or ethnic background. - Other (please specify) - Text,Please specify your level of education.,Which Voice Assistant do you use? / Which Voice Assistant did you use before? (Please select all that you've used) - Selected Choice,Which Voice Assistant do you use? / Which Voice Assistant did you use before? (Please select all that you've used) - Other Voice Assistants (Please provide the name) - Text,How long have you been using Voice Assistant?,How often do you use a Voice Assistant?,Do you know skills may collect your personal information?,Do you think the skill in the above video collects your personal information?,What personal information does it collect? (Select all that apply),Please choose the reason why you don't think name or phone number is your personal information. - Selected Choice,Please choose the reason why you don't think name or phone number is your personal information. - Others - Text,Are you aware that the Amazon platform requires skills to provide a privacy policy if they collect your personal information?,Have you ever read the privacy policy of any skill?,How much time did you spend reading a single privacy policy?,"Based on the above two examples, how long do you anticipate spending on reading each privacy policy?","When reading a privacy policy, do you find it challenging? Please specify the difficulties you encounter. (Select all that apply) - Selected Choice","When reading a privacy policy, do you find it challenging? Please specify the difficulties you encounter. (Select all that apply) - Others - Text","When reading a privacy policy, which section do you care about the most? (Select all that apply). - Selected Choice","When reading a privacy policy, which section do you care about the most? (Select all that apply). - Others - Text","After reviewing the provided privacy policy examples, do you believe that presenting the privacy policy in a shorter, more easily understandable, and accessible manner would help you better understand privacy policies?","In this audio, we introduce a method to inform users about data collection, which we call it ""Privacy Notice Over Voice"".
+ 
+
+ Do you think ""Privacy Notice Over Voice"" offers a better way to notify users about their privacy? - Selected Choice","In this audio, we introduce a method to inform users about data collection, which we call it ""Privacy Notice Over Voice"".
+ 
+
+ Do you think ""Privacy Notice Over Voice"" offers a better way to notify users about their privacy? - No - Please provide your opinions. - Text","Accessibility: Conversation-friendly with Alexa, prioritizing auditory information for enhanced usability, especially for the visually impaired individuals.
+ 
+
+ 
+
+ Which video, first or second, do you believe better presents the idea of accessibility?","How do you feel about the first video, which provides a more accessible privacy notice through voice interaction?",Do you think people with visual impairments can complete all the steps in the second video?,Do you think the first video (Privacy Notice Over Voice) can assist people with visual impairments in understanding the data collection process?,"User Control and Consent: Users should have the right to be informed, with clear options to opt in or out, ensuring control over their privacy settings and data processing activities.
+ 
+
+ 
+
+ 
+
+ Which audio, the first or the second, do you think better presents the idea of User Control and Consent? To assist your understanding, the following figure is a screenshot of the visual representation of the first and second audio.","How do you feel about the first video, which provides 'User Control and Consent'?","Readability: When covering all data collection, the summary should not be excessively long and allow users to quickly grasp the essential details.
+ 
+
+ 
+
+ 
+
+ Which audio, the first or the second, do you think better presents the idea of readability? To assist your understanding, the following figure is a screenshot of the visual representation of the first and second audio.","How do you feel about the first video, which provides a shorter privacy notice?","Which location is better?
+ 
+
+ Figure 1: Privacy notice at the beginning.
+ 
+
+ Figure 2: You can ask about the skill at any time by saying 'tell me what data is collected'.
+ 
+
+ Figure 3: Privacy notice at the end.","Overall, how do you feel about the design of the privacy notice? 
+ To assist your understanding, the following figure is a screenshot of the visual representation of the first and second audio.","Do you have any recommendations regarding the structure and format of ""Privacy Notice Over Voice""? - User","Do you have any recommendations regarding the structure and format of ""Privacy Notice Over Voice""? - Developer"
+Male - 65.38%,36 - 65 - 53.85%,Caucasian/White - 59.62%,Bachelor's Degree - 57.69%,,Amazon Alexa - 86.54%,Cortana,Over 3 years - 48.08%,Serval times a week - 34.62%,Yes - 80.00%,Yes - 98.08%,Name - 92.31%,I perceive name/phone number as non-sensitive and suitable for sharing. - 44.44%,,Yes - 65.38%,No - 61.54%,5-10 min - 60.00%,5-10 min - 37.50%,"Too lengthy, takes too much time to read. - 82.69%",Descriptions are too vague and ambiguous,How to collect your personal information - 48.08%,,Yes - 66.00%,Yes - 96.30%,What is an email permission involve is my question.,First - 73.08%,Like a great deal - 46.15%,No - 48.08%,Yes - 77.36%,First - 76.92%,Like a great deal - 48.08%,First - 67.31%,Like somewhat - 44.23%,Figure 1 - 67.31%,Like somewhat - 50.00%,"If it is too long, people will not want to listen, also will not want to hear it every time permission is needed.",For the explanation of how to run it to be better
+Female - 34.62%,26 - 35 - 44.23% ,Asian/Pacific Islander - 25.00%,High school graduate - 28.85%,,Google Home - 55.77%,Android voice assistant,1 - 2 years - 36.54%,Multiple times per day - 28.85%,Maybe - 20.00%,No - 1.92%,Start date - 84.62%,I think name/phone number is publicly available and not considered private. - 66.66%,,No - 34.62%,Yes - 38.46%,Less than 5 min - 35.00%,Less than 5 min - 12.50%,"Use of legal terminology, making the content difficult to comprehend. - 48.08%",,How to share your personal information - 55.77%,,Maybe - 34.00%,No - Please provide your opinions. - 3.70%,"This specifies what is collected but not what it is used for, if it will be sold to third parties, etc. It is more easily digestible but provides no context.",Second - 23.08%,Like somewhat - 32.69%,Maybe - 28.85%,Maybe - 18.87%,Second - 15.38,Like somewhat - 42.31%,Second - 25%,Like a great deal - 40.38%,Figure 2 - 30.77%,Like a great deal - 42.31%,"There needs to be a happy medium between merely telling you what is being collected and being transparent about why and how that information is used. Simply spilling out a bunch of jargon is not helpful. But simply saying ""we are collecting your data"" is also not helpful.","It's great, looks really good, pretty impressive."
+,Over 65 - 1.92% ​​,Native American/Alaska Native - 9.62%,Master's Degree - 13.46%,,Apple Siri - 11.54%,,2 - 3 years - 11.54%,Daily - 25.00%,,,Phone number - 88.46%,"After reading this question, I now consider name and phone number to be personal information. - 11.11%",,,,10-30 min - 5.00%,10-30 min - 28.12%,"Difficult to locate essential information, such as personal data collection. - 40.38%",,How to store your personal information - 48.08%,,,,,Both first and second - 3.85%,Neither like nor dislike - 13.46%,Yes - 23.08%,No - 3.77%,Both first and second - 7.69%,Neither like nor dislike - 7.69%,Both first and second - 7.69%,Neither like nor dislike - 15.38%,Figure 3 - 1.92%,Neither like nor dislike - 7.69%,"Adequate privacy preservation is therefore essential to ensure that sensitive biometric data, including voice recordings or speech data",It would be great if we can change the welcome message in the skill
+,,African American/Black - 3.85%,,,Other Voice Assistants (Please provide the name) - 3.85% ​,,Less than 1 year - 3.85%,Less than once a week - 7.69%,,,,,,,,,More than 30 minutes - 21.88%,Lack of accessibility features for those who prefer or require auditory information. - 21.15%,,Data Retention - 51.92%,,,,,,Dislike somewhat - 7.69%,,,,Dislike somewhat - 1.92%,,,,,"No, I like knowing what I'm sharing upfront. That seems a lot safer. Thank you.",It would be great if we can customise the welcome message and update the keywords.
+,,Hispanic/Latino - 1.92% ​​,,,,,,Once a week - 3.85%,,,,,,,,,,I don't think it is chanllenging. - 13.46%,,Contact Details  - 30.77%,,,,,,,,,,,,,,,"nclude this privacy notice on your website, or provide a link to it in your regular customer communications or your email signatures.",
+,,,,,,,,,,,,,,,,,,,,"Your Choices and Rights (e.g. access to data, correction of data, deletion of data) - 65.38% ​",,,,,,,,,,,,,,,ALEXA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"include this privacy notice on your website, or provide a link to it in your regular customer communications or your email signatures",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,none - its a decent change that is needed,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,When disclosing it I would think it would provide a minor benefit to put alert symbols like a siren over the title or first line of each message just to be thoroughly clear what it is.,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"In order to provide you with the services of our platform, and/or in connection with your use of features on the Voice platform, we share your personal data with our third-party suppliers, subcontractors, and other service providers, and with other third parties solely for purposes of legal and regulatory compliance",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,maybe include an option where the user can ask for more info to provided after the initial interaction,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I dont have any recommendations,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I think keeping it simple and understandable is the best option.,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Thanks,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"I definitely think you should lead with it, doing anything before getting consent just makes no sense.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"I like the information being presented at the start of the texts, I think that makes it easier to deal with and not have to sit and listen to so much talking about it.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,i think it works well,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Just keep the information clear of legal terms,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No as I think that as long as it is simple and concise then it is fine. Not to long an drawn out.,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I like to get it at the beginning of the conversation.,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,First privacy notice over voice asking permission,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I think it is solid but would suggest that simplification be made since there is a vast amount of information provided.,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"yeah it is also great. privacy notice over voice looks more mature then what i select sonic waves. It really suites and people will appriciate it,",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I think that you've done a great job. There's nothing I can think of that could make your Privacy Notice Over Voice better.,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I would suggest prompting the user if they would like further details on the information collected to have full details given to them over the Privacy Notice Over Voice feature.,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"I think that providing it in the beginning is a good idea because it allows the user to instanty know what will be collected before they start the process. In addition, I feel it wuld be a great opportunity to ask questions and gain clarification on aspects of the privacy notice. I feel that having the ability to ask for a more in depth explination if desired along with examples of how it would work in practice would be extreamly useful in helping to better understand it.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Over"" voice sounds a bit odd to me, it seems like ""by voice"" or ""through voice communication"" or something sounds more natural.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bullet points to highlight personal information being collected could aid in recall.,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Make it accessible and easy for everyone to understand,
